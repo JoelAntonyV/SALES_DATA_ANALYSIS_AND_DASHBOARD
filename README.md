@@ -30,7 +30,7 @@ The main objective is to support *data-driven decision making* by visualizing to
 
 ## 📊 Power BI Dashboard
 
-*File:* [salesdashbord.pbix](salesdashbord.pbix)  
+*File:* [Dashboard_png.jpg](https://github.com/JoelAntonyV/SALES_DATA_ANALYSIS_AND_DASHBOARD/blob/main/Dashboard_png.jpg)  
 
 *Preview:*
 ![Dashboard Preview](Dashboard_png.jpg)
